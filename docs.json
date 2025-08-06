@@ -4,8 +4,8 @@
   "name": "Clueso Docs",
   "colors": {
     "primary": "#DA5CC7",
-    "light": "#3376FD",
-    "dark": "#3EB94F"
+    "light": "#DA5CC7",
+    "dark": "#DA5CC7"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -102,7 +102,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://web.clueso.io"
     }
   },
   "contextual": {
