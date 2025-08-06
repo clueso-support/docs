@@ -16,6 +16,10 @@
           {
             "group": "Getting started",
             "pages": [
+              {
+                "title": "hello",
+                "icon": "book-open"
+              },
               "getting-started/quickstart",
               "getting-started/web-editor"
             ]
