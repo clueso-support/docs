@@ -8,6 +8,9 @@
     "dark": "#DA5CC7"
   },
   "favicon": "/favicon.svg",
+  "background":{
+    "decoration":"grid"
+  },
   "navigation": {
     "groups": [
           {
