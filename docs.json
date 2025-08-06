@@ -16,9 +16,13 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              {
+                title: "getting-started/index",
+                icon: "book-open"
+              },
+              
+              "getting-started/quickstart",
+              "getting-started/web-editor"
             ]
           },
           {
