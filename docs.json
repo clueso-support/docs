@@ -9,7 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "background":{
-    "decoration":"grid"
+    "decoration":"windows"
   },
   "navigation": {
     "groups": [
