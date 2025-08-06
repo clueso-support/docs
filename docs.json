@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "Clueso Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#DA5CC7",
+    "light": "#3376FD",
+    "dark": "#3EB94F"
   },
   "favicon": "/favicon.svg",
   "navigation": {
